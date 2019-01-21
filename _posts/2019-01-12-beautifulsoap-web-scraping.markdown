@@ -21,6 +21,7 @@ categories: Python
 4. 再來就是Show me the codes! 不想看文字的可直接看code.
 <br>
 ```
+
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
