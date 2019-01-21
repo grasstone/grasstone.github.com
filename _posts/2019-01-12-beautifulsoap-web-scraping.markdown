@@ -8,16 +8,17 @@ categories: Python
 現時網上提拱抓取的方案，主要是安裝Extension，如**Data Scraper**，或**Agenty** 。 這些雖然功能大，但都需要付費，倒不如自己寫一個。
 
 事前準備：
-1. Python
+1. Python<br>
 2. 安裝以下package:
    1.  用作呼叫網絡資源
        > pip install requests
    2.  用作提取HTML Element Library
        > pip install beautifulsoup4
    3.  把提取的內容整理，以CSV輸出
-       > pip install pandas
+       > pip install pandas<br>
 3.  我這次作為了提取以下網站的生詞庫而寫的Script，它有總共17頁。
      * [examword ielts 4000 academic words page 1](https://www.examword.com/ielts-list/4000-academic-word-1?la=en)
+<br>
 4. 再來就是Show me the codes! 不想看文字的可直接看code.
 [Github - grasstone - Web Scraping](https://github.com/grasstone/webscraping/blob/master/WebScrapingIeltsWord.py)  
 <br>
