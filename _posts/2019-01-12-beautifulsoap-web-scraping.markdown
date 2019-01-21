@@ -11,12 +11,12 @@ categories: Python
 1. Python<br>
 2. 安裝以下package:
    1.  用作呼叫網絡資源
-       > pip install requests
+       ```pip install requests```
    2.  用作提取HTML Element Library
-       > pip install beautifulsoup4
+       ```pip install beautifulsoup4```
    3.  把提取的內容整理，以CSV輸出
-       > pip install pandas<br>
-3.  我這次作為了提取以下網站的生詞庫而寫的Script，它有總共17頁。
+       ```pip install pandas```<br>
+3.  我這次作為了提取以下網站的生詞庫而寫的Script，它有總共17頁。<br>
      * [examword ielts 4000 academic words page 1](https://www.examword.com/ielts-list/4000-academic-word-1?la=en)
 <br>
 4. 再來就是Show me the codes! 不想看文字的可直接看code.<br> 
