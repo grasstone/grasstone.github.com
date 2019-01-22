@@ -19,7 +19,7 @@ categories: Python
 3.  我這次作為了提取以下網站的生詞庫而寫的Script，它有總共17頁。<br>
 [Examword ielts 4000 academic words page 1](https://www.examword.com/ielts-list/4000-academic-word-1?la=en)
 <br>
-4. 再來就是Show me the codes! 不想看文字的可直接看code.<br> 
+4. 再來就是Show me the code! 不想看文字的可直接看code.<br> 
 [Github - grasstone - Web Scraping](https://github.com/grasstone/webscraping/blob/master/WebScrapingIeltsWord.py)  
 <br>
 5. 當中最重要的要點是知道你想提取的HTML Element是用什麼方式提取。以我為例，以css class來提取想要的內容(需要使用view element來看)。
